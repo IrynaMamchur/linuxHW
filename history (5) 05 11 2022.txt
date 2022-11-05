@@ -1,0 +1,13 @@
+   0 nano fullscript.sh
+   1 chmod 744 fullscript.sh
+   2 ./fullscript.sh
+   3 nano fullscript.sh
+   4 ./fullscript.sh
+   5 cp /tmp/fullscript.sh /bin
+   6 chmod +x /bin/fullscript.sh
+   7 pwd
+   8 cp /root/fullscript.sh /bin
+   9 chmod +x /bin/fullscript.sh
+  10 fullscript.sh
+  11 history
+  12 history > /tmp/history.txt
